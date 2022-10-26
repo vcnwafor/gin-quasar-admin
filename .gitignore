@@ -32,6 +32,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# db files
+/.dbdata
+
 # Editor directories and files
 go.sum
 .idea
